@@ -5,7 +5,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Yogesh Saini&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Yogesh_Saini&label=Profile%20views&color=0e75b6&style=flat"
     alt="Yogesh Saini"
   />
 </p>
@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **React and Node js projects** 
 - 💬 Ask me about **Web Development and Android Native Dev.**
 - 📫 How to reach me **yogeshsaini1213@gmail.com* 
-- ⚡ Fun fact **I sneeze whenever I see the sun 🥲**
+- ⚡ Fun fact **I Am Still Newbie **
 
 <h3 align="left">Connect with me:</h3>
 
@@ -202,55 +202,14 @@
       width="40"
       height="40"
     />
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/products/xd.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      width="40"
-      height="40"
-    />
-  </a>
+  </a> 
 </p>
 
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rajutkarsh07&show_icons=true&locale=en&layout=compact"
-    alt="rajutkarsh07"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ykumar1415&show_icons=true&locale=en&layout=compact"
+    alt="Ykumar1415"
   />
 </p>
 
