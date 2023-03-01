@@ -5,8 +5,8 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Yogesh_Saini&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Yogesh Saini"
+    src="https://komarev.com/ghpvc/?username=YogeshSaini&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Yogesh_Saini"
   />
 </p>
 
