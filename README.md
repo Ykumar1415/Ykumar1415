@@ -210,7 +210,7 @@
     align="left"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ykumar1415&show_icons=true&locale=en&layout=compact"
     alt="Ykumar1415"
-       style = "display : inline-block;background-color : "#1f1f1f""
+       style = "display : inline-block;background-color : #1f1f1f;"
   />
 </p>
 
@@ -219,7 +219,7 @@
     align="center"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ykumar1415&show_icons=true&locale=en"
     alt="Ykumar1415"
-              style = "display : inline-block;background-color : "#1f1f1f""
+              style = "display : inline-block;background-color : #1f1f1f;"
   />
 </p>
 
