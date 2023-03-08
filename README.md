@@ -208,7 +208,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ykumar1415&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ykumar1415&show_icons=true&locale=en&layout=compact"
     alt="Ykumar1415"
   />
 </p>
@@ -216,7 +216,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Ykumar1415&show_icons=true&locale=en"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ykumar1415&show_icons=true&locale=en"
     alt="Ykumar1415"
   />
 </p>
