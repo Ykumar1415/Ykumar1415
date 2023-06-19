@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently in **IIITDMJ 2nd year CSE undergrad🧑🏻‍💻** 
-- 🌱 I’m currently learning **React and Node js** 
+- 🌱 I’m currently working on **React, Go and Node js** 
 - 👯 I’m looking to collaborate on **React and Node js projects** 
 - 💬 Ask me about **Web Development and Android Native Dev.**
 - 📫 How to reach me **yogeshsaini1213@gmail.com* 
