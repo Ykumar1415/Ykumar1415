@@ -10,7 +10,6 @@
   />
 </p>
 
-- 🔭 I’m currently in **IIITDMJ 2nd year CSE undergrad🧑🏻‍💻** 
 - 🌱 I’m currently working on **React, Go and Node js** 
 - 👯 I’m looking to collaborate on **React and Node js projects** 
 - 💬 Ask me about **Web Development and Android Native Dev.**
