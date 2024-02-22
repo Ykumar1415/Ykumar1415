@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently working on **React,Node.js, Go and DevOps** 
-- 👯 I’m looking to collaborate on **React and Node js projects** 
+- 👯 I’m looking to collaborate on **Angular,React, Python, DevOps projects** 
 - 💬 Ask me about **Web Development and DevOps.**
 - 📫 How to reach me **yogeshsaini1213@gmail.com* 
 - ⚡ Fun fact **I Am Still Newbie **
