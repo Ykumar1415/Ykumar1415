@@ -204,14 +204,7 @@
   </a> 
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ykumar1415&show_icons=true&locale=en&layout=compact"
-    alt="Ykumar1415"
-       style = "display : inline-block; "
-  />
-</p>
+
 
 <p>
   &nbsp;<img
