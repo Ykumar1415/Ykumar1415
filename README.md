@@ -2,7 +2,27 @@
 <h3 align="center">
   A passionate Full Stack Web Developer and Android Developer from India 🇮🇳
 </h3>
+<div style="display: flex;">
+  <img
+    src="https://github.com/user-attachments/assets/e4eba710-c471-4f42-a51d-9d36566238b0"
+    alt="Yogesh_Saini"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/31f8df8b-afb1-4bb3-b143-b2b56dd13124"
+    alt="Yogesh_Saini"
+  />
+</div>
 
+<!-- <div>
+ <img
+    src="https://github.com/user-attachments/assets/e4eba710-c471-4f42-a51d-9d36566238b0"
+    alt="Yogesh_Saini"
+  />
+   <img
+    src="https://github.com/user-attachments/assets/31f8df8b-afb1-4bb3-b143-b2b56dd13124"
+    alt="Yogesh_Saini"
+  />
+</div> -->
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=YogeshSaini&label=Profile%20views&color=0e75b6&style=flat"
