@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Saini</h1>
 <h3 align="center">
-  A passionate Full Stack Web Developer and Android Developer from India 🇮🇳
+  A passionate Software Developer and DevOps Practitioner.
 </h3>
 <!-- <div style="display: flex;">
   <img
