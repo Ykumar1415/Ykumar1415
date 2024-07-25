@@ -18,7 +18,6 @@
     src="https://github.com/user-attachments/assets/e4eba710-c471-4f42-a51d-9d36566238b0"
     alt="Yogesh_Saini"
     style="
-      height: 500px;
       border-radius: 50%;
       box-shadow: 0 0 10px rgba(0,0,0,0.5);
     "
@@ -27,12 +26,13 @@
     src="https://github.com/user-attachments/assets/31f8df8b-afb1-4bb3-b143-b2b56dd13124"
     alt="Yogesh_Saini"
     style="
-      height: 500px;
+          width:400px;
       border-radius: 50%;
       box-shadow: 0 0 10px rgba(0,0,0,0.5);
     "
   />
 </div>
+
 
  
 <p align="left">
