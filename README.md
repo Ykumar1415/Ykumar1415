@@ -2,27 +2,39 @@
 <h3 align="center">
   A passionate Full Stack Web Developer and Android Developer from India 🇮🇳
 </h3>
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <img
     src="https://github.com/user-attachments/assets/e4eba710-c471-4f42-a51d-9d36566238b0"
     alt="Yogesh_Saini"
   />
   <img
-    src="https://github.com/user-attachments/assets/31f8df8b-afb1-4bb3-b143-b2b56dd13124"
-    alt="Yogesh_Saini"
-  />
-</div>
-
-<!-- <div>
- <img
-    src="https://github.com/user-attachments/assets/e4eba710-c471-4f42-a51d-9d36566238b0"
-    alt="Yogesh_Saini"
-  />
-   <img
     src="https://github.com/user-attachments/assets/31f8df8b-afb1-4bb3-b143-b2b56dd13124"
     alt="Yogesh_Saini"
   />
 </div> -->
+
+<div style="display: flex; position: relative; width: 100%;">
+  <img
+    src="https://github.com/user-attachments/assets/e4eba710-c471-4f42-a51d-9d36566238b0"
+    alt="Yogesh_Saini"
+    style="
+      height: 500px;
+      border-radius: 50%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    "
+  />
+  <img
+    src="https://github.com/user-attachments/assets/31f8df8b-afb1-4bb3-b143-b2b56dd13124"
+    alt="Yogesh_Saini"
+    style="
+      height: 500px;
+      border-radius: 50%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    "
+  />
+</div>
+
+ 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=YogeshSaini&label=Profile%20views&color=0e75b6&style=flat"
