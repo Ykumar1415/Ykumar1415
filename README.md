@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogesh Saini</h1>
+<h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">
   A passionate Software Developer and DevOps Practitioner.
 </h3>
@@ -42,9 +42,9 @@
   />
 </p>
 
-- 🌱 I’m currently working on **React,Node.js, Go and DevOps** 
+- 🌱 I’m currently working on **AI, React,Node.js, Go and DevOps** 
 - 👯 I’m looking to collaborate on **Angular,React, Python, DevOps projects** 
-- 💬 Ask me about **Software Development and DevOps.**
+- 💬 Ask me about **AI, Software Development and DevOps.**
 - 📫 How to reach me **yogeshsaini1415@gmail.com* 
 - ⚡ ** Eager to learn new things **
 <!-- This is a comment 
