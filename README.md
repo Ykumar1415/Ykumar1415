@@ -65,29 +65,45 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=python" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="40"></td>
   </tr>
+
   <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=redux" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=vite" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=express" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=socketio" width="40"></td>
   </tr>
+
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=prisma" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="40"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=jest" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" width="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" width="40"></td>
   </tr>
 </table>
 
