@@ -109,15 +109,7 @@
 
 
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ykumar1415&show_icons=true&locale=en"
-    alt="Ykumar1415"
-              style = "display : inline-block; "
-  />
-</p>
-
+ 
 <p>
   <img
     align="center"
